@@ -1,7 +1,7 @@
 # Basic web-app
 FROM node:hydrogen-slim
 
-LABEL session="BRKETI-1401"
+LABEL session="TECETI-2000"
 
 # Copy app to /src
 COPY . /src
